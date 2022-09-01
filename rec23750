@@ -1,0 +1,13 @@
+Lee-Becky-lab03:
+total 1936
+-rw-r--r--. 1 myid    1826 Jul 10 19:05 arrayutil.c
+-rw-r--r--. 1 myid    1184 Jul 10 18:29 arrayutil.h
+-rw-r--r--. 1 myid 1925556 Jul 14 17:48 arrayutil.h.gch
+-rw-r--r--. 1 myid    4824 Jul 14 17:48 arrayutil.o
+-rwxr-xr-x. 1 myid   14664 Jul 14 17:48 lab03
+-rw-r--r--. 1 myid    2215 Jul 10 18:20 main.c
+-rw-r--r--. 1 myid    5208 Jul 14 17:48 main.o
+-rw-r--r--. 1 myid     204 Jul 14 17:47 Makefile
+-rw-r--r--. 1 myid     627 Jul 14 17:49 README.txt
+-rw-r--r--. 1 myid       0 Jul 14 17:50 rec23750
+/home/myid/sl39085/Lee-Becky-lab03:/home/myid/csci-1730
